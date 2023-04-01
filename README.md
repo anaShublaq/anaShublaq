@@ -12,8 +12,6 @@
 
 - 🌱 I’m currently learning **Blockchain**
 
-- 👨‍💻 All of my projects are available at [linkedin.com/in/anas-m-shublaq-a4aa08228](linkedin.com/in/anas-m-shublaq-a4aa08228)
-
 - 📫 How to reach me **[https://github.com/anaShublaq](https://github.com/anaShublaq)**
 
 
