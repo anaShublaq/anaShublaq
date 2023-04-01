@@ -31,7 +31,6 @@
 </br></br>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=anaShublaq&theme=radical" alt="anaShublaq" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaShublaq&show_icons=true&theme=radical"  alt="anaShublaq" /></p>
-</br>
 
 
  
