@@ -5,9 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anaShublaq&label=Profile%20views&color=blueviolet&&style=flat" alt="anaShublaq" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anaShublaq&theme=radical" alt="anaShublaq" /></a> </p>
-
-
 [![](https://img.shields.io/badge/Gmail-dev.anaShublaq-red)](mailto:dev.ashublaq@gmail.com
 )
 
@@ -15,6 +12,8 @@
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=anaShublaq.anaShublaq)
  
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anaShublaq&theme=radical" alt="anaShublaq" /></a> </p>
+
 
 - 🔭 I’m currently working on [University Graduation Project]
 
