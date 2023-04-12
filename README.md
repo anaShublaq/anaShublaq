@@ -8,6 +8,14 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anaShublaq&theme=radical" alt="anaShublaq" /></a> </p>
 
 
+[![](https://img.shields.io/badge/Gmail-dev.anaShublaq-red)](mailto:dev.ashublaq@gmail.com
+)
+
+[![GitHub anaShublaq](https://img.shields.io/github/followers/anaShublaq?label=follow&style=social)](https://github.com/anaShublaq)
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=anaShublaq.anaShublaq)
+ 
+
 - 🔭 I’m currently working on [University Graduation Project]
 
 - 🌱 I’m currently learning **Blockchain**
@@ -28,16 +36,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=anaShublaq&show_icons=true&theme=radical" alt="anaShublaq"  /></p>
 <p style="margin-top:10px;"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaShublaq&show_icons=true&theme=radical"  alt="anaShublaq" /></p>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=anaShublaq&theme=radical" alt="anaShublaq" /></p>
-
-
-<hr>
-
-[![Linkedin: abdullahshublaq](https://img.shields.io/badge/-anaShublaq-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anaShublaq/)](https://www.linkedin.com/in/anaShublaq/)
-
-[![](https://img.shields.io/badge/Gmail-dev.anaShublaq-red)](mailto:dev.ashublaq@gmail.com
-)
-
-[![GitHub anaShublaq](https://img.shields.io/github/followers/anaShublaq?label=follow&style=social)](https://github.com/anaShublaq)
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=anaShublaq.anaShublaq)
- 
