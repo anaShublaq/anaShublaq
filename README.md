@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anaShublaq&label=Profile%20views&color=blueviolet&&style=flat" alt="anaShublaq" /> </p>
 
-[![](https://img.shields.io/badge/Gmail-dev.anaShublaq-red)](mailto:dev.ashublaq@gmail.com
+[![](https://img.shields.io/badge/Gmail-dev.ashublaq-red)](mailto:dev.ashublaq@gmail.com
 )
 
 [![GitHub anaShublaq](https://img.shields.io/github/followers/anaShublaq?label=follow&style=social)](https://github.com/anaShublaq)
