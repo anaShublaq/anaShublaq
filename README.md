@@ -51,9 +51,7 @@
 <img src="https://raw.githubusercontent.com/livewire/livewire/main/art/logo.svg" alt="livewire" width="40" height="40"/>
 </a>
 
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40"/>
-</a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/81fb0ceb5ecbb7d6c0b0fe1cf5d96166a173ed8d1044d67f0008b515af9a720a/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f33352f6e756c6c2f7461696c77696e646373732e706e67"><img src="https://camo.githubusercontent.com/81fb0ceb5ecbb7d6c0b0fe1cf5d96166a173ed8d1044d67f0008b515af9a720a/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f33352f6e756c6c2f7461696c77696e646373732e706e67" alt="Tailwindcss" data-canonical-src="https://img.icons8.com/color/35/null/tailwindcss.png" style="max-width: 100%;"></a>
 
 <a href="https://alpinejs.dev/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/alpinejs/alpinejs-original.svg" alt="alpinejs" width="40" height="40"/>
