@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Anas Mohammed Shublaq
 
-<h3 align="center">Laravel Developer | Backend Developer | Blockchain Enthusiast</h3>
+<h3 align="center">Laravel Developer | Hobbyist Game Developer & Designer | Blockchain Enthusiast</h3>
 
 <p align="center">
-  Passionate about building web applications, solving problems, and continuously learning new technologies.
+  Passionate about building web applications, creating games, designing pixel art, and exploring new technologies.
 </p>
 
 <p align="center">
@@ -15,11 +15,12 @@
 
 ## 🚀 About Me
 
-- 💻 I'm a Laravel Developer passionate about backend development.
+- 💻 Laravel Developer passionate about backend development.
+- 🎮 Hobbyist Game Developer & Game Designer.
+- 🎨 Interested in Pixel Art and 2D Game Design.
 - 🌱 Currently learning **Blockchain Technology**.
-- 🔭 Working on web applications and real-world software projects.
+- 🕹️ Enjoy creating 2D games, especially platformers.
 - 🧠 Always interested in learning, improving, and exploring new technologies.
-- 📫 Reach me at **[dev.ashublaq@gmail.com](mailto:dev.ashublaq@gmail.com)**
 
 ---
 
@@ -39,7 +40,7 @@
 
 ---
 
-## 🛠️ Languages & Technologies
+## 💻 Web Development
 
 <p align="left">
   <a href="https://www.php.net/"><img src="https://skillicons.dev/icons?i=php" width="45" alt="PHP" /></a>
@@ -53,17 +54,49 @@
   <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" width="45" alt="Node.js" /></a>
   <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="45" alt="Git" /></a>
   <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub" /></a>
-  <a href="https://postman.com/"><img src="https://skillicons.dev/icons?i=postman" width="45" alt="Postman" /></a>
-  <a href="https://www.microsoft.com/en-us/sql-server"><img src="https://skillicons.dev/icons?i=visualstudio" width="45" alt="Visual Studio" /></a>
+  <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" width="45" alt="Postman" /></a>
 </p>
 
 **Also familiar with:**
 - Laravel Livewire
 - Alpine.js
-- Axios
-- AJAX
-- Webpack
+- Axios & AJAX
 - RESTful APIs
+- Webpack
+
+---
+
+## 🎮 Game Development & Design
+
+<p align="left">
+  <a href="https://unity.com/"><img src="https://img.shields.io/badge/Unity-222222?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" /></a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://skillicons.dev/icons?i=cs" width="45" alt="C Sharp" /></a>
+  <a href="https://www.aseprite.org/"><img src="https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white" alt="Aseprite" /></a>
+  <a href="https://www.adobe.com/products/photoshop.html"><img src="https://skillicons.dev/icons?i=photoshop" width="45" alt="Photoshop" /></a>
+  <a href="https://www.adobe.com/products/illustrator.html"><img src="https://skillicons.dev/icons?i=illustrator" width="45" alt="Illustrator" /></a>
+</p>
+
+**Game Development Tools:**
+- Unity Hub
+- Visual Studio Code
+- JetBrains PhpStorm
+
+**Creative Interests:**
+- 🎨 Pixel Art
+- 🕹️ 2D Platformer Games
+- 🧩 2D Game Design
+- 🎭 Game Assets & Character Design
+
+---
+
+## 🛠️ Tools & IDEs
+
+<p align="left">
+  <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" width="45" alt="Visual Studio Code" /></a>
+  <a href="https://www.jetbrains.com/phpstorm/"><img src="https://img.shields.io/badge/PhpStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white" alt="PhpStorm" /></a>
+  <a href="https://unity.com/download"><img src="https://img.shields.io/badge/Unity_Hub-222222?style=for-the-badge&logo=unity&logoColor=white" alt="Unity Hub" /></a>
+  <a href="https://www.adobe.com/"><img src="https://skillicons.dev/icons?i=photoshop,illustrator" height="45" alt="Adobe Creative Tools" /></a>
+</p>
 
 ---
 
@@ -81,7 +114,7 @@
 ---
 
 <p align="center">
-  <i>“Great things are built one line of code at a time.”</i>
+  <i>"Great things are built one line of code at a time."</i>
 </p>
 
 <p align="center">
