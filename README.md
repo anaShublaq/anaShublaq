@@ -1,96 +1,89 @@
-<h1 align="center">Hi 👋, I'm Anas Mohammed Shublaq</h1>                              
-<h3 align="center">Laravel Developer</h3> 
-<h5 align="center">Interested in BlockChain Technology</h5>             
+# 👋 Hi, I'm Anas Mohammed Shublaq
 
+<h3 align="center">Laravel Developer | Backend Developer | Blockchain Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anaShublaq&label=Profile%20views&color=blueviolet&&style=flat" alt="anaShublaq" /> </p>
-
-[![](https://img.shields.io/badge/Gmail-dev.ashublaq-red)](mailto:dev.ashublaq@gmail.com
-)
-
-[![GitHub anaShublaq](https://img.shields.io/github/followers/anaShublaq?label=follow&style=social)](https://github.com/anaShublaq)
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=anaShublaq.anaShublaq)
- 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anaShublaq&theme=radical" alt="anaShublaq" /></a> </p>
-
-
-- 🔭 I’m currently working on [University Graduation Project]
-
-- 🌱 I’m currently learning **Blockchain**
-
-- 📫 How to reach me **[https://github.com/anaShublaq](https://github.com/anaShublaq)**
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/anas-m-shublaq-a4aa08228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anaShublaq/" height="30" width="40" /></a>
+<p align="center">
+  Passionate about building web applications, solving problems, and continuously learning new technologies.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-</a>
-
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-</a>
-
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-</a>
-
-<a href="https://laravel.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
-</a>
-
-<a href="https://laravel-livewire.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/livewire/livewire/main/art/logo.svg" alt="livewire" width="40" height="40"/>
-</a>
-
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/81fb0ceb5ecbb7d6c0b0fe1cf5d96166a173ed8d1044d67f0008b515af9a720a/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f33352f6e756c6c2f7461696c77696e646373732e706e67"><img src="https://camo.githubusercontent.com/81fb0ceb5ecbb7d6c0b0fe1cf5d96166a173ed8d1044d67f0008b515af9a720a/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f33352f6e756c6c2f7461696c77696e646373732e706e67" alt="Tailwindcss" data-canonical-src="https://img.icons8.com/color/35/null/tailwindcss.png" style="max-width: 100%;"></a>
-
-<a href="https://alpinejs.dev/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/alpinejs/alpinejs-original.svg" alt="alpinejs" width="40" height="40"/>
-</a>
-
-<a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="vite" width="40" height="40"/>
-</a>
-
-<a href="https://laravel.com/docs/starter-kits#laravel-breeze" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel-breeze" width="40" height="40"/>
-</a>
-
-<a href="https://axios-http.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/axios/axios-plain.svg" alt="axios" width="40" height="40"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="ajax" width="40" height="40"/>
-</a>
-
-<a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-</a>
-
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-</a>
-
-<a href="https://www.php.net" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-</a>
-
-<a href="https://postman.com" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-</a>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anaShublaq&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/anaShublaq?label=Followers&style=social" alt="GitHub Followers" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=anaShublaq&show_icons=true&theme=radical" alt="anaShublaq"  /></p>
-<p style="margin-top:10px;"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaShublaq&show_icons=true&theme=radical"  alt="anaShublaq" /></p>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=anaShublaq&theme=radical" alt="anaShublaq" /></p>
+---
+
+## 🚀 About Me
+
+- 💻 I'm a Laravel Developer passionate about backend development.
+- 🌱 Currently learning **Blockchain Technology**.
+- 🔭 Working on web applications and real-world software projects.
+- 🧠 Always interested in learning, improving, and exploring new technologies.
+- 📫 Reach me at **[dev.ashublaq@gmail.com](mailto:dev.ashublaq@gmail.com)**
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/anaShublaq">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/anas-m-shublaq-a4aa08228/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:dev.ashublaq@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
+
+---
+
+## 🛠️ Languages & Technologies
+
+<p align="left">
+  <a href="https://www.php.net/"><img src="https://skillicons.dev/icons?i=php" width="45" alt="PHP" /></a>
+  <a href="https://laravel.com/"><img src="https://skillicons.dev/icons?i=laravel" width="45" alt="Laravel" /></a>
+  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" width="45" alt="MySQL" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" width="45" alt="JavaScript" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" width="45" alt="HTML5" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" width="45" alt="CSS3" /></a>
+  <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" width="45" alt="Tailwind CSS" /></a>
+  <a href="https://vite.dev/"><img src="https://skillicons.dev/icons?i=vite" width="45" alt="Vite" /></a>
+  <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" width="45" alt="Node.js" /></a>
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="45" alt="Git" /></a>
+  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub" /></a>
+  <a href="https://postman.com/"><img src="https://skillicons.dev/icons?i=postman" width="45" alt="Postman" /></a>
+  <a href="https://www.microsoft.com/en-us/sql-server"><img src="https://skillicons.dev/icons?i=visualstudio" width="45" alt="Visual Studio" /></a>
+</p>
+
+**Also familiar with:**
+- Laravel Livewire
+- Alpine.js
+- Axios
+- AJAX
+- Webpack
+- RESTful APIs
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=anaShublaq&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaShublaq&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anaShublaq&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+<p align="center">
+  <i>“Great things are built one line of code at a time.”</i>
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
